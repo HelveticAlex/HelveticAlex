@@ -1,10 +1,10 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AlexioShow/AlexioShow/master/Animation.gif" align="center" style="width: 100%" />
+<center><img src="https://raw.githubusercontent.com/AlexioShow/AlexioShow/master/Animation.gif" align="center" style="width: 100%" />
 </div>  
 <center><img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif" alt="this slowpoke moves"  width="600" />  
 
-### <div align="center">Bievenue sur mon profile !</div>  
+### <div align="center">Bienvenue sur mon profile !</div>  
   
 
 - 🔭 J'ai actuellement 1️⃣7️⃣ ans  
@@ -23,11 +23,6 @@
 <center><img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif" alt="this slowpoke moves"  width="600" />
 
 ## Mes compétences et intérêts  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 <div align="center">  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -54,14 +49,6 @@
 <center>
 <a href="http://4chan.org/"><img src="https://camo.githubusercontent.com/3f1567cfe7e25f0bccab42299f42b991a42fa5ae81e6e024cae00182e16d8ffc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d346368616e26636f6c6f723d303036363030266c6f676f3d346368616e266c6f676f436f6c6f723d464646464646266c6162656c3d" width="200"/>
 </div>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -87,11 +74,6 @@
 
 <br/>  
 
-
-  
-
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zqyvreamjejcmspze3adc4qfce&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" /></div>  
 
 <br/>  
@@ -105,8 +87,7 @@
 
 <div align="center">
             <a href="https://paypal.me/AlexGirardin" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
                 />
             </a></div>
