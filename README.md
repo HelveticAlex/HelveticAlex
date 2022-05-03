@@ -10,13 +10,10 @@
 - 🔭 J'ai actuellement 1️⃣7️⃣ ans  
   
 
-- 🌱 J'apprends actuellement le langage de programmation "JAVA"  
+- 🌱 Certificat fédéral de capacité en cours (1/4)...
   
 
 - 📌 Mon objectif est d'acquérir un maximum de connaissances  
-  
-
-- ⚡ CFC en cours (1/4)...  
   
 
 <br/>  
