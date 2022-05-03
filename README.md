@@ -8,8 +8,11 @@
 
 <br/>
 
- <center>**About me !**
-  <center><img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif" alt="this slowpoke moves"  width="600" />
+<div>
+<center>
+ ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AlexioShow)
+ </div>
+<center><img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif" alt="this slowpoke moves"  width="600" />
 <div>
 <center>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
