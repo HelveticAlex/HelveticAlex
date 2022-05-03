@@ -65,22 +65,11 @@
 
 
 ## Statistiques de Github
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexioShow&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AlexioShow&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/AlexGirardin" target="_blank" style="display: inline-block;">
-                <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexioShow&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  <br/>
 <div>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=PMFUXHTJGMV2G" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" align="center" style="width: 50%" />
+    </div>
