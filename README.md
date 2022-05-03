@@ -1,1 +1,7 @@
-https://github.com/AlexioShow/AlexioShow/blob/f034038cf6456027ea554d6d82d2ed57e0a05389/Animation.gif
+<div align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/AlexioShow/AlexioShow/master/Animation.gif" alt="Here is a little bit about me!">
+
+<br />
+
+> **GIF loading a little slow? You can drink a cup of ☕ first**.
