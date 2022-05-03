@@ -4,4 +4,4 @@
 
 <br />
 
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
+> **GIF loading a little slow? You can drink a cup of ☕ first !**.
