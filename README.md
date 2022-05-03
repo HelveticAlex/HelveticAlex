@@ -5,7 +5,7 @@
 <center>
 Welcome to my profile !
 <br/>
- 
+   ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AlexioShow)
 <center><img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif" alt="this slowpoke moves"  width="600" />
 <div>
 <center>
@@ -36,6 +36,4 @@ Welcome to my profile !
 <center><img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif" alt="this slowpoke moves"  width="600" />
 <center><div>
 <img src="https://camo.githubusercontent.com/3f1567cfe7e25f0bccab42299f42b991a42fa5ae81e6e024cae00182e16d8ffc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d346368616e26636f6c6f723d303036363030266c6f676f3d346368616e266c6f676f436f6c6f723d464646464646266c6162656c3d" width="200"/>
-
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AlexioShow)
 </div>
