@@ -69,11 +69,11 @@
 
 ## Statistiques de Github
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlexioShow&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=AlexioShow&&style=github_dark" align="center" />
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexioShow&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexioShow&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexioShow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexioShow&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
