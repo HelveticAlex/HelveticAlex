@@ -10,10 +10,13 @@
 - 🔭 J'ai actuellement 1️⃣7️⃣ ans  
   
 
+- 📌 Mon objectif est d'acquérir un maximum de connaissances
+  
+
 - 🌱 Certificat fédéral de capacité en cours (1/4)...
   
 
-- 📌 Mon objectif est d'acquérir un maximum de connaissances  
+- 🌍 Confoederatio Helvetica
   
 
 <br/>  
