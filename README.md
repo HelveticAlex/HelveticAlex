@@ -7,7 +7,7 @@
 ### <div align="center">Bienvenue sur mon profile !</div>  
   
 
-- 🔭 J'ai actuellement 1️⃣7️⃣ ans  
+- 🔭 J'ai actuellement 1️⃣8️⃣ ans  
   
 
 - 📌 Mon objectif est d'acquérir un maximum de connaissances
