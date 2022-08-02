@@ -13,7 +13,7 @@
 - 📌 Mon objectif est d'acquérir un maximum de connaissances
   
 
-- 🌱 Certificat fédéral de capacité en cours (1/4)...
+- 🌱 Certificat fédéral de capacité en cours (2/4)...
   
 
 - 🌍 Confoederatio Helvetica
