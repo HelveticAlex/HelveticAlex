@@ -58,7 +58,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="coming_soon" target="_blank">
-<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
+<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alexioshow1@gmail.com alt=gmail style="margin-bottom: 5px;" />
 </div>  
   
 
