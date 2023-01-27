@@ -75,10 +75,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexioShow&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexioShow&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-## Donation?
-<div>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=PMFUXHTJGMV2G" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" align="center" style="width: 50%" />
-    </div>
