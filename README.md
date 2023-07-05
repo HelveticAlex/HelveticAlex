@@ -7,13 +7,13 @@
 ### <div align="center">Bienvenue sur mon profile !</div>  
   
 
-- 🔭 J'ai actuellement 1️⃣8️⃣ ans  
+- 🔭 J'ai actuellement 1️⃣9️⃣ ans  
   
 
 - 📌 Mon objectif est d'acquérir un maximum de connaissances
   
 
-- 🌱 Certificat fédéral de capacité en cours (2/4)...
+- 🌱 Certificat fédéral de capacité en cours (3/4)...
   
 
 - 🌍 Confoederatio Helvetica
